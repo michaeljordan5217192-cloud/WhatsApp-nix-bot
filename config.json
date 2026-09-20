@@ -1,23 +1,23 @@
 {
-  "prefix": "+",
-  "botName": "NixBot",
+  "prefix": "¥",
+  "botName": "ꗄꜝꜝ.Joɾdaɳꜜ谷 bot",
   "ownerNumber": [
-    "35781909426408"
+    "237679821482"
   ],
   "premiumNumber": [
-    "35781909426408",
-    "35781909426408"
+    "237679821482",
+    "237679821482"
   ],
   "bannedNumber": [],
-  "devsPhoneNumber": "35781909426408@s.whatsapp.net",
+  "devsPhoneNumber": "237679821482@s.whatsapp.net",
   "port": 5000,
   "rolesARE": "2 for admin, 3 for developer",
   "roles": {
     "2": [
-      "35781909426408"
+      "237679821482"
     ],
     "3": [
-      "35781909426408"
+      "237679821482"
     ]
   },
   "CoolDownForDev": false,
